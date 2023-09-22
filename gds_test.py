@@ -3,7 +3,7 @@ import numpy
 import gdspy
 import math
 
-data =scipy.io.loadmat('E:\\pCloud\\Papers and Drafts\\naeem - Shenzhen\\Spin_L4_0_new.mat')
+data =scipy.io.loadmat('myfile.mat')
 
 xl= data['XP_L4_0']
 yl= data['YP_L4_0']
